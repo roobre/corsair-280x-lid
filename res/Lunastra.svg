@@ -16,11 +16,11 @@
    style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
    viewBox="0 0 2133 2133"
    id="svg171"
-   sodipodi:docname="Lunastra.svg"
+   sodipodi:docname="Lunastra-fixed.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"><metadata
    id="metadata175"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -33,9 +33,9 @@
    inkscape:window-height="1028"
    id="namedview173"
    showgrid="false"
-   inkscape:zoom="16"
-   inkscape:cx="99.115199"
-   inkscape:cy="19.256543"
+   inkscape:zoom="2.8284271"
+   inkscape:cx="196.50148"
+   inkscape:cy="-48.505851"
    inkscape:window-x="0"
    inkscape:window-y="22"
    inkscape:window-maximized="0"
@@ -109,16 +109,18 @@
    id="rect122" />
   <rect
    class="fil1"
-   x="904.20386"
-   y="1867"
+   x="898.99634"
+   y="1865.7283"
    width="99.922501"
    height="133.23"
    id="rect124"
    style="fill:#d4ba35" />
   <polygon
    class="fil1"
-   points="1033,2000 1116,2000 1166,1950 1166,1867 1033,1867 "
-   id="polygon126" />
+   points="1116,2000 1166,1950 1166,1867 1033,1867 1033,2000 "
+   id="polygon126"
+   transform="translate(0,-1.041681)"
+   style="fill:#d4ba35" />
   <polygon
    class="fil1"
    points="133,2000 250,2000 300,1950 300,1867 133,1867 "
@@ -149,8 +151,10 @@
    id="circle138" />
   <path
    class="fil5"
-   d="M600 568c25,44 23,99 -5,141 -29,42 -78,65 -129,59 -10,-90 47,-175 134,-200z"
-   id="path140" />
+   d="m 601.73028,566.96325 c 25.51262,44.22701 23.47161,99.51078 -5.10252,141.72748 -29.59465,42.2167 -79.5994,65.33536 -131.64514,59.30441 -10.20504,-90.46435 47.96372,-175.90291 136.74766,-201.03189 z"
+   id="path140"
+   inkscape:connector-curvature="0"
+   style="fill:#925851;stroke-width:1.0128032" />
   <path
    class="fil2"
    d="M300 1600l0 -233 -133 0 0 84c0,82 59,149 133,149z"
@@ -169,27 +173,35 @@
    id="path148" />
   <path
    class="fil2"
-   d="M176 901c10,0 20,3 29,7 -11,85 21,170 86,226l-108 0 -116 0 0 -116c0,-65 48,-117 109,-117z"
-   id="path150" />
+   d="m 176.00005,900.88396 c 10,0 20,3 29,7 -11,85 21,169.99984 86,225.99984 h -108 -116 v -116 c 0,-64.99984 48,-116.99984 109,-116.99984 z"
+   id="path150"
+   inkscape:connector-curvature="0"
+   style="fill:#527493" />
   <path
    class="fil4"
    d="M350 1001l116 -117 0 -116c27,3 53,-2 76,-13 52,-18 96,-54 124,-100l0 -137c0,88 116,176 204,262 -12,-7 -24,-13 -37,-18l0 256c0,39 11,76 31,107 24,37 60,66 102,81l0 -39 166 -166 0 266c-128,0 -233,75 -233,167l0 433 -200 0 0 -117 0 -100 0 -133 0 -326c28,-16 52,-39 69,-66 20,-31 31,-68 31,-107l0 -256c-41,15 -76,43 -100,78l0 -72 -99 0 0 516 -234 233 0 -150 100 -100 0 -266 -66 0 -50 0zm608 -105c5,13 8,26 8,38l0 15c0,-18 -3,-36 -8,-53z"
    id="path152" />
   <path
    class="fil0"
-   d="M833 762l0 256c0,39 11,76 31,107 24,37 60,66 102,81l0 -255c0,-40 -12,-77 -31,-108 -24,-37 -60,-66 -102,-81z"
-   id="path154" />
+   d="m 831.95461,760.95197 v 257.20343 c 0,39.1834 11.1723,76.3573 31.48558,107.503 24.37592,37.174 60.93981,66.3103 103.59769,81.3808 V 950.84045 c 0,-40.18804 -12.18796,-77.36198 -31.48558,-108.5077 -24.37592,-37.17395 -60.93981,-66.31027 -103.59769,-81.38078 z"
+   id="path154"
+   inkscape:connector-curvature="0"
+   style="fill:#527493;stroke-width:1.01016748" />
   <path
    class="fil0"
-   d="M799 762l0 256c0,39 -11,76 -31,107 -24,37 -60,66 -102,81l0 -255c0,-40 12,-77 32,-108 23,-37 59,-66 101,-81z"
-   id="path156" />
+   d="m 800.04288,760.95197 v 257.20343 c 0,39.1834 -11.1723,76.3573 -31.48558,107.503 -24.37592,37.174 -60.93981,66.3103 -103.59769,81.3808 V 950.84045 c 0,-40.18804 12.18796,-77.36198 32.50124,-108.5077 23.36026,-37.17395 59.92415,-66.31027 102.58203,-81.38078 z"
+   id="path156"
+   inkscape:connector-curvature="0"
+   style="fill:#527493;stroke-width:1.01016748" />
   
   
   
   <path
    class="fil1"
-   d="M400 1001l-50 0 -33 0c-32,0 -66,-70 -112,-93 -11,85 21,170 86,226l109 0 0 -133z"
-   id="path164" />
+   d="m 400.00005,1000.8838 h -50 -33 c -32,0 -66,-69.99984 -112,-92.99984 -11,85 21,169.99984 86,225.99984 h 109 z"
+   id="path164"
+   inkscape:connector-curvature="0"
+   style="fill:#d4ba35" />
   <polygon
    class="fil2"
    points="333,1867 333,1933 849,1933 899,1884 899,1867 699,1867 699,1750 583,1867 "
@@ -198,7 +210,27 @@
    style="fill:#527493" />
   <polygon
    class="fil2"
-   points="699,1650 699,1517 450,1767 516,1834 "
-   id="polygon168" />
- </g>
+   points="516,1834 699,1650 699,1517 450,1767 "
+   id="polygon168"
+   transform="translate(-13.536282)"
+   style="fill:#527493" />
+ <rect
+   style="fill:#000000;fill-opacity:0.59585493;stroke:none;stroke-width:10.41505527"
+   id="rect5884"
+   width="546.79041"
+   height="216.1124"
+   x="1140.4485"
+   y="243.96944" /><rect
+   style="fill:#000000;fill-opacity:0.59585493;stroke:none;stroke-width:10.41505527"
+   id="rect5886"
+   width="518.14899"
+   height="488.20569"
+   x="965.99634"
+   y="276.51648" /><rect
+   style="fill:#000000;fill-opacity:0.59585493;stroke:none;stroke-width:10.41505527"
+   id="rect5888"
+   width="328.07422"
+   height="220.01804"
+   x="824.09125"
+   y="393.68585" /></g>
 </svg>
