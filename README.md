@@ -7,3 +7,7 @@ The original one has little spacing between the case and the lid, which makes th
 ![Lid render](https://user-images.githubusercontent.com/969721/64979267-a9268700-d8b7-11e9-948b-242d2a2642a8.png)
 
 Original vector drawings for the cut-outs were made by [stage7](http://stg7.net).
+
+## Finished product
+
+![Finished lid](https://user-images.githubusercontent.com/969721/66418608-c0621b80-ea02-11e9-8bbf-d17b373dbdae.JPG)
