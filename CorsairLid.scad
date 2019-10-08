@@ -9,7 +9,7 @@ holeDH = 10;
 holeDW = 14.8;
 
 // Diameter of mounting holes
-holeDiameter = 9.5;
+holeDiameter = 9.85;
 
 // Stencil parameters (hand-tuned)
 stencilSpacing = 31;
